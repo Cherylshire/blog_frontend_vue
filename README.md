@@ -1,4 +1,7 @@
 # blog_frontend_vue
+Please download the blog_backend_app as I forked it from someone else.
+https://github.com/Cherylshire/blog_backend_app
+Thanks!
 
 ## Project setup
 ```
